@@ -60,7 +60,7 @@ The program is divided into several functions for modularity and readability:
 
 ## Sample Output  
 
-[View Video Demo](https://your-username.github.io/your-repo-name/video-demo.html)
+![View Video Demo](https://github.com/user-attachments/assets/acd6b455-daf4-44d9-b1e7-4278d27aacd6)
 
 ## Future Enhancements  
 - Add support for advanced operations like exponentiation and square roots.  
