@@ -1,8 +1,8 @@
-# Jasmin's Math Randomizer Tutor  
+# 🎮 **Jasmin's Math Randomizer Tutor** 🎮  
 
-Welcome to **Jasmin's Math Randomizer Tutor**, an interactive and fun educational game designed to help learners practice basic arithmetic operations like addition, subtraction, multiplication, and division. The program generates random math questions and keeps track of your score, making learning math an engaging and rewarding experience!  
+Welcome to **Jasmin's Math Randomizer Tutor**, an exciting and interactive math game, *all available right in your console*! This fun educational game is designed to help learners practice basic arithmetic operations like addition, subtraction, multiplication, and division. With randomly generated questions and score tracking, this program makes learning math a fun, rewarding experience!
 
-## Features  
+## 🌟 **Features** 🌟  
 - **Math Operations**: Practice addition, subtraction, multiplication, and division.  
 - **Customizable Questions**: Choose the number of questions and the maximum number value.  
 - **Randomized Problems**: Questions are randomly generated for a dynamic learning experience.  
@@ -10,7 +10,9 @@ Welcome to **Jasmin's Math Randomizer Tutor**, an interactive and fun educationa
 - **User-Friendly Interface**: Intuitive prompts and easy-to-use input system.  
 - **Loading Animations**: Engaging loading screens for a polished user experience.  
 
-## Installation  
+*(Note: This program is designed for the console—no fancy graphics, just pure math fun!)*
+
+## ⚙️ **Installation** ⚙️  
 
 ### Option 1: Using GCC in the Terminal  
 1. Clone this repository to your local machine:  
@@ -25,6 +27,7 @@ Welcome to **Jasmin's Math Randomizer Tutor**, an interactive and fun educationa
    ```bash
    ./math_tutor
    ```  
+
 ### Option 2: Running in Visual Studio Code  
 1. Open the `.c` file in Visual Studio Code.  
 2. Install the **Code Runner** extension or ensure you have **g++** installed on your system.  
@@ -37,19 +40,19 @@ Welcome to **Jasmin's Math Randomizer Tutor**, an interactive and fun educationa
    ```bash
    ./a.exe
    ```
-   
-## Usage
+
+## 📋 **Usage**  
 - Run the program and follow the on-screen instructions.  
 - Use the menu to select a math operation:
   - Addition
   - Subtraction
   - Multiplication
-  - Division
+  - Division  
 - Enter your choices for the number of questions and the maximum value of numbers.  
 - Answer the questions as they appear.  
 - Check your performance and replay if desired!  
 
-## Code Overview
+## 🖥️ **Code Overview**  
 The program is divided into several functions for modularity and readability:
 
 - **Math Operations**: Functions like `addNum`, `subtractNum`, `multiplyNum`, and `divideNum` handle the arithmetic operations.  
@@ -58,13 +61,13 @@ The program is divided into several functions for modularity and readability:
 - **Loading Animations**: `intro_loading` and `exit_loading` add a visual appeal.  
 - **Scoring System**: Tracks and displays scores across multiple sessions.  
 
-## Sample Output  
+## 📸 **Sample Output**  
 https://github.com/user-attachments/assets/6971966f-f2dd-4b1d-b6fa-49aec617c4e2
 
-## Future Enhancements  
+## 🚀 **Future Enhancements**  
 - Add support for advanced operations like exponentiation and square roots.  
 - Implement a leaderboard for competitive scoring.  
 - Make the program platform-independent by replacing `windows.h` with standard C functions.  
 
-## Acknowledgments  
-Thanks for trying out Jasmin's Math Randomizer Tutor! Contributions are always welcome. Feel free to submit a pull request or open an issue for suggestions. 
+## 🙏 **Acknowledgments**  
+Thanks for trying out **Jasmin's Math Randomizer Tutor**! Contributions are always welcome. Feel free to submit a pull request or open an issue for suggestions.
