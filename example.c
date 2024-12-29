@@ -104,7 +104,7 @@ int main()
 
     } while (again == 'y' || again == 'Y');  
 
-    printf("\n\t\tTHANK YOU FOR VISITING JASMIN'S MATH RANDOMIZER TUTOR!");
+    printf("\n\t\tTHANK YOU FOR VISITING JASMIN'S MATH RANDOMIZER TUTOR!\n\n");
     return 0;
 }
 
@@ -153,5 +153,5 @@ void exit_loading()
         Sleep(100);
         printf("%c", 219);
     }
-    printf("\n\t\t\tProgram ended successfully!");
+    printf("\n\t\t\tProgram ended successfully!\n\n");
 }
