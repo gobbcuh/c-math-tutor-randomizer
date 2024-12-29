@@ -59,8 +59,7 @@ The program is divided into several functions for modularity and readability:
 - **Scoring System**: Tracks and displays scores across multiple sessions.  
 
 ## Sample Output  
-
-![View Video Demo](https://github.com/user-attachments/assets/acd6b455-daf4-44d9-b1e7-4278d27aacd6)
+https://github.com/user-attachments/assets/6971966f-f2dd-4b1d-b6fa-49aec617c4e2
 
 ## Future Enhancements  
 - Add support for advanced operations like exponentiation and square roots.  
