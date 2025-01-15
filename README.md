@@ -1,6 +1,6 @@
 # 🎮 **Jasmin's Math Randomizer Tutor** 🎮  
 
-Welcome to **Jasmin's Math Randomizer Tutor**, an exciting and interactive math game, *all available right in your console*! This fun educational game is designed to help learners practice basic arithmetic operations like addition, subtraction, multiplication, and division. With randomly generated questions and score tracking, this program makes learning math a fun, rewarding experience!
+Welcome to **Jasmin's Math Randomizer Tutor**, an exciting and interactive math game, *all available right in your console*! This fun educational game is designed to help learners practice basic arithmetic operations, with randomly generated questions and score tracking.
 
 ## 🌟 **Features** 🌟  
 - **Math Operations**: Practice addition, subtraction, multiplication, and division.  
