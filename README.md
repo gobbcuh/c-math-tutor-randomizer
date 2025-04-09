@@ -1,8 +1,8 @@
-# 🎮 **Jasmin's Math Randomizer Tutor** 🎮  
+# **Jasmin's Math Randomizer Tutor** 🎮  
 
 Welcome to **Jasmin's Math Randomizer Tutor**, an exciting and interactive math game, *all available right in your console*! This fun educational game is designed to help learners practice basic arithmetic operations, with randomly generated questions and score tracking.
 
-## 🌟 **Features** 🌟  
+## 🌟 **Features**
 - **Math Operations**: Practice addition, subtraction, multiplication, and division.  
 - **Customizable Questions**: Choose the number of questions and the maximum number value.  
 - **Randomized Problems**: Questions are randomly generated for a dynamic learning experience.  
@@ -12,7 +12,7 @@ Welcome to **Jasmin's Math Randomizer Tutor**, an exciting and interactive math 
 
 *(Note: This program is designed for the console—no fancy graphics, just pure math fun!)*
 
-## ⚙️ **Installation** ⚙️  
+## ⚙️ **Installation**
 
 ### Option 1: Using GCC in the Terminal  
 1. Clone this repository to your local machine:  
