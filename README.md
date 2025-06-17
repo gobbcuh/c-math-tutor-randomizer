@@ -63,11 +63,3 @@ The program is divided into several functions for modularity and readability:
 
 ## 📸 **Sample Output**  
 https://github.com/user-attachments/assets/6971966f-f2dd-4b1d-b6fa-49aec617c4e2
-
-## 🚀 **Future Enhancements**  
-- Add support for advanced operations like exponentiation and square roots.  
-- Implement a leaderboard for competitive scoring.  
-- Make the program platform-independent by replacing `windows.h` with standard C functions.  
-
-## 🙏 **Acknowledgments**  
-Thanks for trying out **Jasmin's Math Randomizer Tutor**! Contributions are always welcome. Feel free to submit a pull request or open an issue for suggestions.
